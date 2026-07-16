@@ -1,0 +1,7 @@
+{
+  "name": "git-commands",
+  "version": "1.0.0",
+  "description": "Git 工作流命令：提交、推送和合并分支",
+  "author": "sumtime",
+  "license": "MIT"
+}

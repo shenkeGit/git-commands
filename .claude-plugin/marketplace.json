@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "git-commands",
+  "description": "Git 工作流命令：提交、推送和合并分支",
+  "owner": { "name": "sumtime" },
+  "plugins": [
+    {
+      "name": "git-commands",
+      "description": "Git 提交、推送、合并分支命令",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
